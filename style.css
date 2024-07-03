@@ -1,0 +1,18 @@
+button {
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: bold;
+    border-color: white;
+}
+
+.saveImg {
+    background-color: orange;
+}
+
+.saveReci {
+    background-color: green;
+}
+
+.ingr h3, .steps h3, .notes h3 {
+    font-style: italic;
+}
